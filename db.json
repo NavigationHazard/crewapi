@@ -10,7 +10,8 @@
                 "Abgabestation",
                 "Maskierbereich",
                 "Farbmagazin",
-                "Anlagenbediener", "Teamkoordinator" 
+                "Anlagenbediener", 
+                "Teamkoordinator" 
             ]
         }
     ],
