@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "employee": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Lackierer"
+      "skills": ["Lackieren Oben" , "Lackieren Oben"]
     }
   ],
   "profile": {
