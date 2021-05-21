@@ -1,12 +1,21 @@
 {
-  "employee": [
-    {
-      "id": 1,
-      "title": "Lackierer",
-      "paintTop": [ "Lackieren Oben" , "Lackieren Oben" ]
+    "employee": [
+        {
+            "id": 1,
+            "title": "Lackierer",
+            "paintTop": [
+                "Lackieren Oben",
+                "Lackieren Oben",
+                "Aufgabestation",
+                "Abgabestation",
+                "Maskierbereich",
+                "Farbmagazin",
+                "Anlagenbediener",
+                "Teamkoordinator"  
+            ]
+        }
+    ],
+    "profile": {
+        "name": "typicode"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
