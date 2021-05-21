@@ -2,7 +2,7 @@
   "employee": [
     {
       "id": 1,
-      "title": "Lackierer"
+      "title": "Lackierer",
       "skills": ["Lackieren Oben" , "Lackieren Oben"],
     }
   ],
